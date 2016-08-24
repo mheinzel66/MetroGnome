@@ -1,0 +1,4 @@
+cs 10
+sck 13
+mosi 11
+miso 12
